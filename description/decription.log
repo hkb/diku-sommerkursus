@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.4.24)  24 APR 2012 16:14
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.4.24)  24 APR 2012 17:05
 entering extended mode
  %&-line parsing enabled.
 **decription.tex
@@ -31,59 +31,144 @@ File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 ) (./decription.aux)
 \openout1 = `decription.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 5.
+(Font)              <14.4> on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 5.
+(Font)              <7> on input line 6.
 
 
 LaTeX Warning: No \author given.
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 21.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 21.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 21.
+Missing character: There is no Ã in font cmbx12!
+Missing character: There is no ¥ in font cmbx12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¥ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¥ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¥ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¸ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¦ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¦ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¥ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¥ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¸ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¥ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¸ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¸ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¦ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¥ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¦ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¦ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¥ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¥ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¥ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¥ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¸ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¦ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¸ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¸ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¥ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¥ in font cmr12!
 
-LaTeX Warning: Citation `Gil:02' on page 1 undefined on input line 21.
+Underfull \hbox (badness 10000) in paragraph at lines 16--34
 
-No file decription.bbl.
+ []
+
+Missing character: There is no Ã in font cmbx12!
+Missing character: There is no ¸ in font cmbx12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¦ in font cmr12!
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./decription.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¦ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¥ in font cmr12!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 47.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 47.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 47.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 47.
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¦ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¦ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¦ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¸ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¦ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¥ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¥ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¥ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¸ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¥ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¥ in font cmr12!
+ [2] (./decription.aux) ) 
 Here is how much of TeX's memory you used:
- 238 strings out of 493848
- 2583 string characters out of 1152823
- 49808 words of memory out of 3000000
- 3589 multiletter control sequences out of 15000+50000
+ 234 strings out of 493848
+ 2548 string characters out of 1152823
+ 50808 words of memory out of 3000000
+ 3586 multiletter control sequences out of 15000+50000
  8501 words of font info for 30 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 22i,6n,19p,446b,193s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/sha
-re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-te
-xlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/
-type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-texlive/fonts/type1/public
-/amsfonts/cm/cmr8.pfb>
-Output written on decription.pdf (2 pages, 57166 bytes).
+ 24i,8n,19p,447b,193s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/
+cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pf
+b></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/shar
+e/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-texl
+ive/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-texlive/fonts/typ
+e1/public/amsfonts/cm/cmr8.pfb>
+Output written on decription.pdf (2 pages, 74596 bytes).
 PDF statistics:
- 29 PDF objects out of 1000 (max. 8388607)
+ 33 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
